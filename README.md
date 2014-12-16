@@ -2,4 +2,4 @@ hello-word
 ==========
 test
 test2
-test git cola
+test git cola 2

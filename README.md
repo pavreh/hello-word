@@ -1,9 +1,4 @@
 hello-word
 ==========
-test
-test2
-test git cola 2
 
-test git cola again
-
-tak co
+File for testing Git Cola

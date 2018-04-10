@@ -3,4 +3,4 @@ hello-word
 
 File for testing Git Cola
 
-14.04
+deb for 14.04

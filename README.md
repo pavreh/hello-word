@@ -1,6 +1,6 @@
-hello-word
-==========
+hello-world
+===========
 
-File for testing Git Cola
+Testing file.
 
 deb from 14.04
